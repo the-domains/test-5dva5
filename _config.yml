@@ -1,4 +1,3 @@
-layout_spectrum: 0.8996653337962925
 typography_spectrum: 0.016032464569434524
 color:
   brandStrength: 0.11928678746335208
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: test
+layout_spectrum: 0.8996653337962925
+name: Hobn
+title: Amplifions votre expérience
